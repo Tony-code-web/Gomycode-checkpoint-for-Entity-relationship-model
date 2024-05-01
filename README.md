@@ -41,6 +41,7 @@ The Gym Management System will be developed using modern software development pr
 
 ---
 
+
 **Future Enhancements:**
 1. Integration with online booking and payment systems for seamless registration and payment processing.
 2. Implementation of a mobile app for convenient access to gym information, session schedules, and member accounts.
